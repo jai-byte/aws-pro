@@ -1,0 +1,1 @@
+git ignore cmd is not so usefull so we can ignore it btw it can ignore some file.
